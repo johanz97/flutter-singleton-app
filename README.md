@@ -1,4 +1,4 @@
-<h1>App Singleton Example</h1>
+<h1>Example Singleton App</h1>
 <ul>
   <li type="circle">Developer: <a href="https://www.linkedin.com/in/johan-zambrano-b537501bb/">Johan Zambrano</a></li>
 </ul>
